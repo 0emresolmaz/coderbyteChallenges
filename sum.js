@@ -1,7 +1,7 @@
 // Input: [5,7,16,1,2]
 // Output: false
 // Input: [3,5,-1,8,12]
-// Output: true
+// Output: true   > max number = 12  5+8+ -1 =12, 12 ==12     
 
 
 
