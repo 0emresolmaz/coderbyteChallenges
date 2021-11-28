@@ -1,6 +1,6 @@
 
-
-let str = ["1, 3, 9, 10, 17, 18", "1, 4, 9, 10"]
+// find common items
+let str = ["1, 3, 9, 10, 17, 18", "1, 4, 9, 10"]    // 1,9,10
 
 const arr1 = str[0].replace(/\s/g, '').split(',')
 const arr2 = str[1].replace(/\s/g, '').split(',')
